@@ -1,0 +1,232 @@
+{
+  "uuid": "2a83b634-b0a2-4fa4-af22-8316347b5cb6",
+  "historyId": "9f5a6ed1a6ea934d4e2d7c804828bf31",
+  "testCaseId": "[engine:junit-jupiter]/[class:com.swissre.iax.e2e.feature.cpv2.setup.CPV2TestSuiteSetupTest]/[test-factory:setCPV2GroupAggregationTestRemovedGroupData()]/[dynamic-test:#2]",
+  "testCaseName": "Setting up group 'CPV2-NP-CUSTOM-MANAGE-TESTAPM-P-JWT' for group removed test cases'",
+  "fullName": "com.swissre.iax.e2e.feature.cpv2.setup.CPV2TestSuiteSetupTest.setCPV2GroupAggregationTestRemovedGroupData",
+  "labels": [
+    {
+      "name": "tag",
+      "value": "SomeTags"
+    },
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:com.swissre.iax.e2e.feature.cpv2.setup.CPV2TestSuiteSetupTest]/[test-factory:setCPV2GroupAggregationTestRemovedGroupData()]/[dynamic-test:#2]"
+    },
+    {
+      "name": "host",
+      "value": "LVR52430"
+    },
+    {
+      "name": "thread",
+      "value": "13852@LVR52430.ForkJoinPool-1-worker-7(19)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "epic",
+      "value": "EPIC-1111"
+    },
+    {
+      "name": "label",
+      "value": "any-label"
+    },
+    {
+      "name": "label",
+      "value": "another-label"
+    },
+    {
+      "name": "feature",
+      "value": "FEAT-555"
+    },
+    {
+      "name": "story",
+      "value": "STRY-9999"
+    },
+    {
+      "name": "story",
+      "value": "STRY-1123"
+    },
+    {
+      "name": "package",
+      "value": "com.swissre.iax.e2e.feature.cpv2.setup.CPV2TestSuiteSetupTest"
+    },
+    {
+      "name": "testClass",
+      "value": "com.swissre.iax.e2e.feature.cpv2.setup.CPV2TestSuiteSetupTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "setCPV2GroupAggregationTestRemovedGroupData"
+    },
+    {
+      "name": "suite",
+      "value": "Setup CPV2 Test Suite"
+    }
+  ],
+  "links": [],
+  "name": "Account Correlation from Source",
+  "status": "passed",
+  "stage": "finished",
+  "description": "Free text",
+  "steps": [
+    {
+      "name": "variable \"attrName\" is created with value \"X213DDF\"",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Request",
+          "source": "33a97aa8-1a94-4487-8b57-032dfedfde34-attachment.html",
+          "type": "text/html"
+        },
+        {
+          "name": "Response",
+          "source": "cf22af2f-6215-4448-a422-384a23c40030-attachment.html",
+          "type": "text/html"
+        }
+      ],
+      "parameters": [
+        {
+          "name": "description",
+          "value": "Given CPV2 group is created"
+        }
+      ],
+      "start": 1660918310089,
+      "stop": 1660918310383
+    },
+    {
+      "name": "Account 'X213DDF' is created",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Request",
+          "source": "33a97aa8-1a94-4487-8b57-032dfedfde34-attachment.html",
+          "type": "text/html"
+        },
+        {
+          "name": "Response",
+          "source": "cf22af2f-6215-4448-a422-384a23c40030-attachment.html",
+          "type": "text/html"
+        }
+      ],
+      "parameters": [
+        {
+          "name": "description",
+          "value": "Given CPV2 group is created"
+        }
+      ],
+      "start": 1660918310089,
+      "stop": 1660918310383
+    },
+    {
+      "name": "When something happens",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "$(\"webdriver\") create()",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1660126114900,
+          "stop": 1660126121597
+        },
+        {
+          "name": "$(\"webdriver\") create()",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1660126114900,
+          "stop": 1660126121597
+        },
+        {
+          "name": "$(\"webdriver\") create()",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1660126114900,
+          "stop": 1660126121597
+        },	{
+          "name": "$(\"webdriver\") create()",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1660126114900,
+          "stop": 1660126121597
+        },
+        {
+          "name": "$(\"webdriver\") create()",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1660126114900,
+          "stop": 1660126121597
+        },
+        {
+          "name": "$(\"webdriver\") create()",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1660126114900,
+          "stop": 1660126121597
+        }
+      ],
+      "attachments": [
+        {
+          "name": "Request",
+          "source": "c37fb1ba-9ae0-40a3-8313-9f31584b5df7-attachment.html",
+          "type": "text/html"
+        },
+        {
+          "name": "Response",
+          "source": "d7083dd2-7b33-4140-9f4b-8aaf1c559caa-attachment.html",
+          "type": "text/html"
+        },
+        {
+          "name": "Request",
+          "source": "f2fcaeef-63af-45df-8ee9-281d04534a99-attachment.html",
+          "type": "text/html"
+        },
+        {
+          "name": "Response",
+          "source": "35e9f70e-0c42-4fd2-95ef-d5acba2128ab-attachment.html",
+          "type": "text/html"
+        }
+      ],
+      "parameters": [
+        {
+          "name": "description",
+          "value": "Given PRE entitlement 'CPV2-NP-CUSTOM-MANAGE-TESTAPM-P-JWT' is deleted"
+        }
+      ],
+      "start": 1660918310383,
+      "stop": 1660918315940
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1660918310088,
+  "stop": 1660918315940
+}
